@@ -3,3 +3,5 @@ writeb 0xC06CE446 0x02
 
 #set bitrate to 35Mb/s
 writew 0xC05C1006 0x420C
+#set noise reduction value to 10
+t ia2 -adj tidx -1 10 -1
