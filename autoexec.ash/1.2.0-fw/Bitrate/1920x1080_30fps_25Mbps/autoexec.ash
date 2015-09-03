@@ -5,7 +5,7 @@ t ia2 -adj ev 0 0 140 0 0 150 0
 t ia2 -adj l_expo 163
 t ia2 -adj autoknee 255
 #set gamma level
-t ia2 -adj gamma 100
+t ia2 -adj gamma 330
 #enable 14 scene mode
 t cal -sc 14
 #enable raw+jpeg stills
